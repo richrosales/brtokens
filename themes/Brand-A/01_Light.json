@@ -49,6 +49,10 @@
       "accent": {
         "value": "{semantic.cta.default}",
         "type": "color"
+      },
+      "test": {
+        "value": "#980404",
+        "type": "color"
       }
     },
     "bg": {
