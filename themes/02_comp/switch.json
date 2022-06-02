@@ -25,7 +25,7 @@
     "track": {
       "unselected": {
         "default": {
-          "border-color": {
+          "background-color": {
             "value": "{semantic.color.inputs.default.border-color}",
             "type": "color"
           }
