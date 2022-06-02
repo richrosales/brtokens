@@ -9,10 +9,6 @@
         "value": "{semantic.font-size.inputs.m}",
         "type": "fontSizes"
       },
-      "font-weight": {
-        "value": "{semantic.font-weight.inputs}",
-        "type": "fontWeight"
-      },
       "default": {
         "value": "{semantic.color.inputs.default.text-color}",
         "type": "color"
@@ -20,6 +16,10 @@
       "disabled": {
         "value": "{semantic.color.inputs.disabled.text-color}",
         "type": "color"
+      },
+      "font-weight": {
+        "value": "{semantic.font-weight.inputs}",
+        "type": "fontWeights"
       }
     },
     "track": {
