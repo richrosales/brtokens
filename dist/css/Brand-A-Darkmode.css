@@ -845,9 +845,9 @@
   --radio-checkmark-selected-disabled-border-color: #94a3b8;
   --switch-label-font-family: Satoshi Variable;
   --switch-label-font-size: 16px;
-  --switch-label-font-weight: 400;
   --switch-label-default: #94a3b8;
   --switch-label-disabled: #94a3b8;
+  --switch-label-font-weight: 400;
   --switch-track-unselected-default-background-color: #475569;
   --switch-track-unselected-hover-border-color: #475569;
   --switch-track-unselected-focus-background-color: #475569;
