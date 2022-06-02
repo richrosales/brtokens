@@ -16,6 +16,10 @@
       "default": {
         "value": "{semantic.color.inputs.default.text-color}",
         "type": "color"
+      },
+      "disabled": {
+        "value": "{semantic.color.inputs.disabled.text-color}",
+        "type": "color"
       }
     },
     "track": {
