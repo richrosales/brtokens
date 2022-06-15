@@ -671,6 +671,7 @@
   --heading-semibold-font-weight: 700;
   --heading-bold-font-weight: 700;
   --heading-line-height: 120%;
+  --heading-font-color: #374151;
   --display-line-height: 100%;
   --help-text-default-text-color: #94a3b8;
   --help-text-default-icon-color: #94a3b8;
@@ -789,7 +790,7 @@
   --menu-item-disabled-icon-color: #94a3b8;
   --menu-item-disabled-border-color: #94a3b8;
   --menu-item-hover-border-color: #475569;
-  --menu-item-hover-text-color: #94a3b8;
+  --menu-item-hover-text-color: #475569;
   --menu-item-hover-icon-color: #94a3b8;
   --menu-item-hover-background-color: #ffffff;
   --menu-item-focus-border-color: #475569;
