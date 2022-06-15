@@ -106,7 +106,7 @@
       "value": "{semantic.line-height.typography.heading}",
       "type": "lineHeights"
     },
-    "font-color": {
+    "text-color": {
       "value": "{semantic.color.typography.default}",
       "type": "color"
     }
