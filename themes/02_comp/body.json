@@ -69,6 +69,10 @@
         "value": "{semantic.font-size.typography.body.xxxl}",
         "type": "fontSizes"
       }
+    },
+    "text-color": {
+      "value": "{semantic.color.typography.default}",
+      "type": "color"
     }
   }
 }
