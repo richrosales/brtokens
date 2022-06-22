@@ -118,19 +118,6 @@
       }
     },
     "ui": {
-      "shadow": {
-        "value": [
-          {
-            "x": "{size.0}",
-            "y": "{size.100}",
-            "blur": "{size.200}",
-            "spread": "0",
-            "color": "hsla(0, 0%, 0%, 0.20)",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow"
-      },
       "border-radius": {
         "value": "100",
         "type": "borderRadius"
