@@ -1,33 +1,120 @@
 {
-  "tokenSetOrder": [
-    "01_core",
-    "02_comp/alert-banner",
-    "02_comp/avatar",
-    "02_comp/body",
-    "02_comp/button",
-    "02_comp/checkbox",
-    "02_comp/code",
-    "02_comp/detail",
-    "02_comp/divider",
-    "02_comp/field-label",
-    "02_comp/heading",
-    "02_comp/help-text",
-    "02_comp/icon-button",
-    "02_comp/link",
-    "02_comp/menu-item",
-    "02_comp/radio",
-    "02_comp/switch",
-    "02_comp/tag",
-    "02_comp/text-field",
-    "03_semantic",
-    "Brand-A/01_Light",
-    "Brand-A/02_Dark",
-    "Brand-B/01_Light",
-    "Brand-B/02_Dark",
-    "Brand-C/01_Light",
-    "Brand-C/02_Dark",
-    "Brand-I/01_Light",
-    "Brand-I/02_Dark",
-    "sizing"
-  ]
+  "tokenSetOrder": {
+    "0": {
+      "value": "01_core",
+      "type": "other"
+    },
+    "1": {
+      "value": "02_comp/alert-banner",
+      "type": "other"
+    },
+    "2": {
+      "value": "02_comp/avatar",
+      "type": "other"
+    },
+    "3": {
+      "value": "02_comp/body",
+      "type": "other"
+    },
+    "4": {
+      "value": "02_comp/button",
+      "type": "other"
+    },
+    "5": {
+      "value": "02_comp/checkbox",
+      "type": "other"
+    },
+    "6": {
+      "value": "02_comp/code",
+      "type": "other"
+    },
+    "7": {
+      "value": "02_comp/detail",
+      "type": "other"
+    },
+    "8": {
+      "value": "02_comp/divider",
+      "type": "other"
+    },
+    "9": {
+      "value": "02_comp/field-label",
+      "type": "other"
+    },
+    "10": {
+      "value": "02_comp/heading",
+      "type": "other"
+    },
+    "11": {
+      "value": "02_comp/help-text",
+      "type": "other"
+    },
+    "12": {
+      "value": "02_comp/icon-button",
+      "type": "other"
+    },
+    "13": {
+      "value": "02_comp/link",
+      "type": "other"
+    },
+    "14": {
+      "value": "02_comp/menu-item",
+      "type": "other"
+    },
+    "15": {
+      "value": "02_comp/radio",
+      "type": "other"
+    },
+    "16": {
+      "value": "02_comp/switch",
+      "type": "other"
+    },
+    "17": {
+      "value": "02_comp/tag",
+      "type": "other"
+    },
+    "18": {
+      "value": "02_comp/text-field",
+      "type": "other"
+    },
+    "19": {
+      "value": "03_semantic",
+      "type": "other"
+    },
+    "20": {
+      "value": "Brand-A/01_Light",
+      "type": "other"
+    },
+    "21": {
+      "value": "Brand-A/02_Dark",
+      "type": "other"
+    },
+    "22": {
+      "value": "Brand-B/01_Light",
+      "type": "other"
+    },
+    "23": {
+      "value": "Brand-B/02_Dark",
+      "type": "other"
+    },
+    "24": {
+      "value": "Brand-C/01_Light",
+      "type": "other"
+    },
+    "25": {
+      "value": "Brand-C/02_Dark",
+      "type": "other"
+    },
+    "26": {
+      "value": "Brand-I/01_Light",
+      "type": "other"
+    },
+    "27": {
+      "value": "Brand-I/02_Dark",
+      "type": "other"
+    },
+    "28": {
+      "value": "sizing",
+      "type": "other"
+    }
+  }
 }
