@@ -453,14 +453,20 @@
   --button-cta-default-text-color: #ffffff;
   --button-cta-default-border-color: #2563eb;
   --button-cta-default-icon-color: #ffffff;
+  --button-cta-default-container: [object Object];
+  --button-cta-default-label: [object Object];
   --button-cta-hover-background-color: #3b82f6;
   --button-cta-hover-text-color: #ffffff;
   --button-cta-hover-border-color: #3b82f6;
   --button-cta-hover-icon-color: #ffffff;
+  --button-cta-hover-container: [object Object];
+  --button-cta-hover-label: [object Object];
   --button-cta-active-background-color: #1d4ed8;
   --button-cta-active-text-color: #ffffff;
   --button-cta-active-border-color: #1d4ed8;
   --button-cta-active-icon-color: #ffffff;
+  --button-cta-active-container: [object Object];
+  --button-cta-active-label: [object Object];
   --button-cta-focus-background-color: #2563eb;
   --button-cta-focus-text-color: #ffffff;
   --button-cta-focus-border-color: #2563eb;
@@ -1070,6 +1076,7 @@
   --semantic-component-large: 48px;
   --semantic-component-extra-large: 56px;
   --semantic-ui-border-radius: 100px;
+  --semantic-ui-shadow: 0 0 0 0 #000000;
   --semantic-neutral-fg: #9ca3af;
   --semantic-neutral-emphasised: #6b7280;
   --semantic-neutral-muted: #d1d5db;
@@ -1463,4 +1470,7 @@
   --semantic-line-height-typography-body: 150%;
   --semantic-line-height-typography-code: 130%;
   --semantic-line-height-typography-detail: 130%;
+  --card-container: [object Object];
+  --card-body: [object Object];
+  --card-font-family: [object Object];
 }

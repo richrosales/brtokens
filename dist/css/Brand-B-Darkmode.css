@@ -453,14 +453,20 @@
   --button-cta-default-text-color: #525252;
   --button-cta-default-border-color: #fafaf9;
   --button-cta-default-icon-color: #525252;
+  --button-cta-default-container: [object Object];
+  --button-cta-default-label: [object Object];
   --button-cta-hover-background-color: #f5f5f4;
   --button-cta-hover-text-color: #525252;
   --button-cta-hover-border-color: #f5f5f4;
   --button-cta-hover-icon-color: #525252;
+  --button-cta-hover-container: [object Object];
+  --button-cta-hover-label: [object Object];
   --button-cta-active-background-color: #e7e5e4;
   --button-cta-active-text-color: #525252;
   --button-cta-active-border-color: #e7e5e4;
   --button-cta-active-icon-color: #525252;
+  --button-cta-active-container: [object Object];
+  --button-cta-active-label: [object Object];
   --button-cta-focus-background-color: #fafaf9;
   --button-cta-focus-text-color: #525252;
   --button-cta-focus-border-color: #fafaf9;
@@ -1463,4 +1469,7 @@
   --semantic-line-height-typography-body: 150%;
   --semantic-line-height-typography-code: 130%;
   --semantic-line-height-typography-detail: 130%;
+  --card-container: [object Object];
+  --card-body: [object Object];
+  --card-font-family: [object Object];
 }
