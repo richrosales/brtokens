@@ -710,7 +710,8 @@
       "alert-banner.error.border-color": "S:204fd1d7570de3c01bf96b3db12bdd319ac29326,",
       "alert-banner.error.background-color": "S:5564fd839362b7a5d4c855fc37679429fb5066d4,",
       "alert-banner.error.icon-color": "S:afc3ab2929d0d72fa8a04e36a48cf3f62326e23a,",
-      "alert-banner.error.text-color": "S:ebb89a60e329cc4affef26364081e29ac0f56193,"
+      "alert-banner.error.text-color": "S:ebb89a60e329cc4affef26364081e29ac0f56193,",
+      "semantic.ui.shadow": "S:f243786de232f8d99bcd229ae105ea64eafa4491,"
     }
   },
   {
@@ -1611,7 +1612,8 @@
       "color.rose.900": "S:f122075905066d146a3519b6be73276b8b9ed6f5,",
       "color.neutrals.black": "S:2c07733977eb136250afea0191ffeac89ad67f79,",
       "color.neutrals.white": "S:bbf583c1d0540a22460667856ad32e157b90483f,",
-      "color.neutrals.transparent": "S:f31aba559b2b3c4dc9f971d40f6f4207705ac7e0,"
+      "color.neutrals.transparent": "S:f31aba559b2b3c4dc9f971d40f6f4207705ac7e0,",
+      "semantic.ui.shadow": "S:adecda8693e75ec67c010000bb788b6b282c315e,"
     }
   },
   {
