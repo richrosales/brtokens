@@ -29,6 +29,20 @@
         "value": "{semantic.sizing.status.l.icon-size}",
         "type": "sizing"
       }
+    },
+    "default": {
+      "background-color": {
+        "value": "{semantic.color.status.neutral.border-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      }
     }
   }
 }
