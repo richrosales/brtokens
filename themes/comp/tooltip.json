@@ -12,7 +12,7 @@
       "value": "{semantic.font-weight.feedback.regular}",
       "type": "fontWeights"
     },
-    "font-size": {
+    "text-size": {
       "value": "{semantic.font-size.feedback.s}",
       "type": "fontSizes"
     },
