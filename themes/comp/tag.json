@@ -1,0 +1,34 @@
+{
+  "tag": {
+    "sm": {
+      "height": {
+        "value": "{semantic.sizing.status.s.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{semantic.sizing.status.s.icon-size}",
+        "type": "sizing"
+      }
+    },
+    "md": {
+      "height": {
+        "value": "{semantic.sizing.status.m.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{semantic.sizing.status.m.icon-size}",
+        "type": "sizing"
+      }
+    },
+    "lg": {
+      "height": {
+        "value": "{semantic.sizing.status.l.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{semantic.sizing.status.l.icon-size}",
+        "type": "sizing"
+      }
+    }
+  }
+}

@@ -12,9 +12,57 @@
       "value": "{semantic.border-radius.navigation.round}",
       "type": "borderRadius"
     },
-    "border-width": {
-      "value": "{semantic.border-width.navigation}",
-      "type": "borderWidth"
+    "badge": {
+      "2xs": {
+        "border-width": {
+          "value": "{semantic.border-width.status}",
+          "type": "borderWidth"
+        }
+      },
+      "xs": {
+        "border-width": {
+          "value": "{semantic.border-width.navigation}",
+          "type": "borderWidth"
+        }
+      },
+      "sm": {
+        "border-width": {
+          "value": "{semantic.border-width.navigation}",
+          "type": "borderWidth"
+        }
+      },
+      "md": {
+        "border-width": {
+          "value": "{border-width.3}",
+          "type": "borderWidth"
+        }
+      },
+      "lg": {
+        "border-width": {
+          "value": "{border-width.4}",
+          "type": "borderWidth"
+        }
+      },
+      "xl": {
+        "border-width": {
+          "value": "6px",
+          "type": "borderWidth"
+        }
+      },
+      "2xl": {
+        "border-width": {
+          "value": "6px",
+          "type": "borderWidth"
+        }
+      },
+      "border-color": {
+        "value": "{semantic.color.navigation.font-color}",
+        "type": "color"
+      },
+      "border-radius": {
+        "value": "{semantic.border-radius.navigation.round}",
+        "type": "borderRadius"
+      }
     },
     "xxs": {
       "height": {
@@ -25,7 +73,7 @@
         "value": "{semantic.sizing.navigation.xxs}",
         "type": "sizing"
       },
-      "font-size": {
+      "text-size": {
         "value": "{semantic.font-size.navigation.xxs}",
         "type": "fontSizes"
       },
@@ -43,7 +91,7 @@
         "value": "{semantic.sizing.navigation.xs}",
         "type": "sizing"
       },
-      "font-size": {
+      "text-size": {
         "value": "{semantic.font-size.navigation.xs}",
         "type": "fontSizes"
       },
@@ -61,7 +109,7 @@
         "value": "{semantic.sizing.navigation.s}",
         "type": "sizing"
       },
-      "font-size": {
+      "text-size": {
         "value": "{semantic.font-size.navigation.s}",
         "type": "fontSizes"
       },
@@ -79,7 +127,7 @@
         "value": "{semantic.sizing.navigation.m}",
         "type": "sizing"
       },
-      "font-size": {
+      "text-size": {
         "value": "{semantic.font-size.navigation.m}",
         "type": "fontSizes"
       },
@@ -97,7 +145,7 @@
         "value": "{semantic.sizing.navigation.l}",
         "type": "sizing"
       },
-      "font-size": {
+      "text-size": {
         "value": "{semantic.font-size.navigation.l}",
         "type": "fontSizes"
       },
@@ -115,7 +163,7 @@
         "value": "{semantic.sizing.navigation.xl}",
         "type": "sizing"
       },
-      "font-size": {
+      "text-size": {
         "value": "{semantic.font-size.navigation.xl}",
         "type": "fontSizes"
       },
@@ -133,7 +181,7 @@
         "value": "{semantic.sizing.navigation.xxl}",
         "type": "sizing"
       },
-      "font-size": {
+      "text-size": {
         "value": "{semantic.font-size.navigation.xxl}",
         "type": "fontSizes"
       },
@@ -151,7 +199,7 @@
         "value": "{semantic.sizing.navigation.xxxl}",
         "type": "sizing"
       },
-      "font-size": {
+      "text-size": {
         "value": "{semantic.font-size.navigation.xxxl}",
         "type": "fontSizes"
       },
@@ -161,16 +209,12 @@
       }
     },
     "background-color": {
-      "value": "{semantic.color.navigation.background-color}",
+      "value": "{semantic.color.navigation.border-color}",
       "type": "color"
     },
     "font-family": {
       "value": "{semantic.font-family.navigation}",
       "type": "fontFamilies"
-    },
-    "border-color": {
-      "value": "{semantic.color.navigation.border-color}",
-      "type": "color"
     }
   }
 }
