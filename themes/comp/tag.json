@@ -115,6 +115,10 @@
     "font-family": {
       "value": "{semantic.font-family.status}",
       "type": "fontFamilies"
+    },
+    "border-radius": {
+      "value": "{semantic.border-radius.status}",
+      "type": "borderRadius"
     }
   }
 }
