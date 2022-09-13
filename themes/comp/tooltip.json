@@ -5,7 +5,7 @@
       "type": "borderRadius"
     },
     "font-family": {
-      "value": "{semantic.font-family.feedback}",
+      "value": "{semantic.font-family.font-family.feedback}",
       "type": "fontFamilies"
     },
     "font-weight": {
