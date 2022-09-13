@@ -54,13 +54,13 @@
     },
     "selected": {
       "default": {
-        "border-color": {
+        "background-color": {
           "value": "{semantic.color.inputs.selected.default.border-color}",
           "type": "color"
         }
       },
       "disabled": {
-        "border-color": {
+        "background-color": {
           "value": "{semantic.color.inputs.selected.hover.border-color}",
           "type": "color"
         }
