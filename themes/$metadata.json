@@ -9,6 +9,7 @@
     "comp/select",
     "comp/switch",
     "comp/tag",
+    "comp/text",
     "core/border",
     "core/color",
     "core/opacity",
