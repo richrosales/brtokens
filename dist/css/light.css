@@ -1207,4 +1207,14 @@
   --height: 24px;
   --width: 24px;
   --icon-icon-color: #0ea5e9;
+  --tooltip-border-radius: 4px;
+  --tooltip-font-family: IBM Plex Sans;
+  --tooltip-font-weight: 400;
+  --tooltip-font-size: 14px;
+  --tooltip-text-color: #f3f4f6;
+  --tooltip-background-color: #9ca3af;
+  --tooltip-padding-left: 16px;
+  --tooltip-padding-right: 16px;
+  --tooltip-padding-top: 16px;
+  --tooltip-padding-bottom: 16px;
 }
