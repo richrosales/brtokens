@@ -71,6 +71,10 @@
         "value": "{semantic.font-weight.typography.bold}",
         "type": "fontWeights"
       }
+    },
+    "font-family": {
+      "value": "{semantic.font-family.typography.sans-serif}",
+      "type": "fontFamilies"
     }
   }
 }
