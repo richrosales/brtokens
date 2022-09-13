@@ -36,20 +36,20 @@
       "value": "{semantic.color.feedback.neutral.border-color}",
       "type": "color"
     },
-    "padding-bottom": {
-      "value": "{semantic.spacing.feedback.padding-bottom}",
-      "type": "spacing"
-    },
-    "padding-top": {
-      "value": "{semantic.spacing.feedback.padding-top}",
+    "padding-left": {
+      "value": "{semantic.spacing.feedback.padding-left}",
       "type": "spacing"
     },
     "padding-right": {
       "value": "{semantic.spacing.feedback.padding-right}",
       "type": "spacing"
     },
-    "padding-left": {
-      "value": "{semantic.spacing.feedback.padding-left}",
+    "padding-top": {
+      "value": "{semantic.spacing.feedback.padding-top}",
+      "type": "spacing"
+    },
+    "padding-bottom": {
+      "value": "{semantic.spacing.feedback.padding-bottom}",
       "type": "spacing"
     },
     "shadow": {
