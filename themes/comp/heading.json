@@ -75,6 +75,10 @@
     "font-family": {
       "value": "{semantic.font-family.typography.sans-serif}",
       "type": "fontFamilies"
+    },
+    "text-color": {
+      "value": "{semantic.color.typography.default}",
+      "type": "color"
     }
   }
 }
