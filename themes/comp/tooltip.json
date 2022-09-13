@@ -4,14 +4,6 @@
       "value": "{semantic.border-radius.feedback}",
       "type": "borderRadius"
     },
-    "border-width": {
-      "value": "{semantic.border-width.feedback}",
-      "type": "borderWidth"
-    },
-    "border-color": {
-      "value": "{semantic.color.feedback.neutral.border-color}",
-      "type": "color"
-    },
     "font-family": {
       "value": "{semantic.font-family.feedback}",
       "type": "fontFamilies"
@@ -51,10 +43,6 @@
     "padding-bottom": {
       "value": "{semantic.spacing.feedback.padding-bottom}",
       "type": "spacing"
-    },
-    "shadow": {
-      "value": "{semantic.ui.shadow}",
-      "type": "boxShadow"
     }
   }
 }
