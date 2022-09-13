@@ -64,20 +64,26 @@
       "value": "{semantic.font-family.typography.sans-serif}",
       "type": "fontFamilies"
     },
-    "font-weight": {
-      "light": {
+    "light": {
+      "font-weight": {
         "value": "{semantic.font-weight.typography.light}",
         "type": "fontWeights"
-      },
-      "regular": {
+      }
+    },
+    "regular": {
+      "font-weight": {
         "value": "{semantic.font-weight.typography.regular}",
         "type": "fontWeights"
-      },
-      "semi-bold": {
+      }
+    },
+    "semi-bold": {
+      "font-weight": {
         "value": "{semantic.font-weight.typography.semibold}",
         "type": "fontWeights"
-      },
-      "bold": {
+      }
+    },
+    "bold": {
+      "font-weight": {
         "value": "{semantic.font-weight.typography.bold}",
         "type": "fontWeights"
       }
