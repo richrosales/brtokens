@@ -16,10 +16,6 @@
       "value": "{semantic.font-size.feedback.s}",
       "type": "fontSizes"
     },
-    "line-height": {
-      "value": "{semantic.line-height.feedback}",
-      "type": "lineHeights"
-    },
     "text-color": {
       "value": "{semantic.color.feedback.neutral.background-color}",
       "type": "color"
