@@ -23,7 +23,8 @@
       "comp/text": "disabled",
       "comp/heading": "disabled",
       "comp/hightlight": "disabled",
-      "comp/icon": "disabled"
+      "comp/icon": "disabled",
+      "comp/tooltip": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -51,7 +52,8 @@
       "comp/text": "enabled",
       "comp/heading": "enabled",
       "comp/hightlight": "enabled",
-      "comp/icon": "enabled"
+      "comp/icon": "enabled",
+      "comp/tooltip": "enabled"
     },
     "$figmaStyleReferences": {}
   }

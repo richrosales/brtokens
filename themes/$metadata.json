@@ -13,6 +13,7 @@
     "comp/switch",
     "comp/tag",
     "comp/text",
+    "comp/tooltip",
     "core/border",
     "core/color",
     "core/opacity",
