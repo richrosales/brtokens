@@ -4,6 +4,7 @@
     "comp/button",
     "comp/checkbox",
     "comp/heading",
+    "comp/hightlight",
     "comp/icon-button",
     "comp/input",
     "comp/radio",

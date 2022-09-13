@@ -21,7 +21,8 @@
       "comp/icon-button": "disabled",
       "comp/tag": "disabled",
       "comp/text": "disabled",
-      "comp/heading": "disabled"
+      "comp/heading": "disabled",
+      "comp/hightlight": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -47,7 +48,8 @@
       "comp/icon-button": "enabled",
       "comp/tag": "enabled",
       "comp/text": "enabled",
-      "comp/heading": "enabled"
+      "comp/heading": "enabled",
+      "comp/hightlight": "enabled"
     },
     "$figmaStyleReferences": {}
   }
