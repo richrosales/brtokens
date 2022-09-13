@@ -59,6 +59,28 @@
         "value": "60px",
         "type": "fontSizes"
       }
+    },
+    "font-family": {
+      "value": "{semantic.font-family.typography.sans-serif}",
+      "type": "fontFamilies"
+    },
+    "font-weight": {
+      "light": {
+        "value": "{semantic.font-weight.typography.light}",
+        "type": "fontWeights"
+      },
+      "regular": {
+        "value": "{semantic.font-weight.typography.regular}",
+        "type": "fontWeights"
+      },
+      "semi-bold": {
+        "value": "{semantic.font-weight.typography.semibold}",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "{semantic.font-weight.typography.bold}",
+        "type": "fontWeights"
+      }
     }
   }
 }
