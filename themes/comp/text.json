@@ -81,6 +81,10 @@
         "value": "{semantic.font-weight.typography.bold}",
         "type": "fontWeights"
       }
+    },
+    "text-color": {
+      "value": "{semantic.color.typography.default}",
+      "type": "color"
     }
   }
 }
