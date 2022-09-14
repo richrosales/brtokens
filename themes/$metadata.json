@@ -11,6 +11,7 @@
     "comp/radio",
     "comp/select",
     "comp/switch",
+    "comp/tab",
     "comp/tag",
     "comp/text",
     "comp/tooltip",
