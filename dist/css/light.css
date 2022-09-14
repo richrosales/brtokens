@@ -1216,4 +1216,10 @@
   --tooltip-padding-right: 16px;
   --tooltip-padding-top: 16px;
   --tooltip-padding-bottom: 16px;
+  --tab-selected-line-text-color: #0284c7;
+  --tab-selected-line-border-color: #0284c7;
+  --tab-selected-soft-background-color: #0ea5e9;
+  --tab-selected-soft-text-color: #ffffff;
+  --tab-selected-solid-background-color: #0284c7;
+  --tab-selected-solid-text-color: #ffffff;
 }
