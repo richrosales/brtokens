@@ -312,10 +312,10 @@
   --semantic-color-status-error-text-color: #f87171;
   --semantic-color-status-error-icon-color: #f87171;
   --semantic-color-status-error-background-color: #fee2e2;
-  --semantic-color-navigation-background-color: #0ea5e9;
-  --semantic-color-navigation-border-color: #0284c7;
-  --semantic-color-navigation-font-color: #ffffff;
-  --semantic-color-navigation-icon-color: #ffffff;
+  --semantic-color-navigation-background: #0ea5e9;
+  --semantic-color-navigation-border: #0284c7;
+  --semantic-color-navigation-text: #ffffff;
+  --semantic-color-navigation-icon: #ffffff;
   --semantic-color-focus-border-color: #e0f2fe;
   --semantic-font-size-actions-xs: 14px;
   --semantic-font-size-actions-sm: 16px;
