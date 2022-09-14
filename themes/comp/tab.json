@@ -63,6 +63,18 @@
           "type": "color"
         }
       }
+    },
+    "font-family": {
+      "value": "{semantic.font-family.font-family.navigation}",
+      "type": "fontFamilies"
+    },
+    "text-size": {
+      "value": "{semantic.font-size.navigation.xl}",
+      "type": "fontSizes"
+    },
+    "font-weight": {
+      "value": "{semantic.font-weight.typography.regular}",
+      "type": "fontWeights"
     }
   }
 }
