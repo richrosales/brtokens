@@ -199,10 +199,6 @@
         "value": "{semantic.sizing.navigation.xxxl}",
         "type": "sizing"
       },
-      "text-size": {
-        "value": "{semantic.font-size.navigation.xxxl}",
-        "type": "fontSizes"
-      },
       "icon-size": {
         "value": "{semantic.sizing.navigation.icon-size.xxxl}",
         "type": "sizing"
