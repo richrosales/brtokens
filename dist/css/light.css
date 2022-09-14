@@ -1228,4 +1228,7 @@
   --tab-selected-soft-text-color: #ffffff;
   --tab-selected-solid-background-color: #0284c7;
   --tab-selected-solid-text-color: #ffffff;
+  --tab-font-family: IBM Plex Sans;
+  --tab-text-size: 16px;
+  --tab-font-weight: 400;
 }
