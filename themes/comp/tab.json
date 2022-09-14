@@ -1,1 +1,36 @@
-{}
+{
+  "tab": {
+    "selected": {
+      "line": {
+        "text-color": {
+          "value": "{semantic.color.navigation.border}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.navigation.border}",
+          "type": "color"
+        }
+      },
+      "soft": {
+        "background-color": {
+          "value": "{semantic.color.navigation.background}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.navigation.text}",
+          "type": "color"
+        }
+      },
+      "solid": {
+        "background-color": {
+          "value": "{semantic.color.navigation.border}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.navigation.text}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
