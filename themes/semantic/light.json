@@ -1042,19 +1042,19 @@
         }
       },
       "navigation": {
-        "background-color": {
+        "background": {
           "value": "{semantic.cta.default}",
           "type": "color"
         },
-        "border-color": {
+        "border": {
           "value": "{semantic.cta.emphasised}",
           "type": "color"
         },
-        "font-color": {
+        "text": {
           "value": "{semantic.fg.on-accent}",
           "type": "color"
         },
-        "icon-color": {
+        "icon": {
           "value": "{semantic.fg.on-accent}",
           "type": "color"
         }
