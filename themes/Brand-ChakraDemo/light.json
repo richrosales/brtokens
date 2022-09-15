@@ -72,5 +72,11 @@
         "type": "fontWeights"
       }
     }
+  },
+  "font-family": {
+    "sans-serif": {
+      "value": "General Sans",
+      "type": "fontFamilies"
+    }
   }
 }
