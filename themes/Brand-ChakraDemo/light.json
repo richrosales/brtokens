@@ -27,6 +27,22 @@
         "value": "{color.neutrals.black}",
         "type": "color"
       }
+    },
+    "ui": {
+      "border-radius": {
+        "value": "12px",
+        "type": "borderRadius"
+      }
+    },
+    "border-radius": {
+      "ui-card": {
+        "value": "12px",
+        "type": "borderRadius"
+      },
+      "actions": {
+        "value": "{border-radius.8}",
+        "type": "borderRadius"
+      }
     }
   }
 }
