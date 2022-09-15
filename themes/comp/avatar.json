@@ -212,19 +212,5 @@
       "value": "{semantic.font-family.navigation}",
       "type": "fontFamilies"
     }
-  },
-  "font-weight": {
-    "regular": {
-      "value": "Regular",
-      "type": "fontWeights"
-    },
-    "medium": {
-      "value": "Medium",
-      "type": "fontWeights"
-    },
-    "semi-bold": {
-      "value": "Semi-Bold",
-      "type": "fontWeights"
-    }
   }
 }
