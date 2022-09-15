@@ -149,6 +149,12 @@
     "border-width": {
       "value": "{semantic.border-width.inputs}",
       "type": "borderWidth"
+    },
+    "label": {
+      "space-between": {
+        "value": "{semantic.spacing.inputs.space-between}",
+        "type": "spacing"
+      }
     }
   },
   "semantic": {
