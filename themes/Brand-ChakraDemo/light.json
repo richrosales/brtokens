@@ -12,10 +12,6 @@
       "subtle": {
         "value": "{color.neutrals.white}",
         "type": "color"
-      },
-      "accent": {
-        "value": "#4040F2",
-        "type": "color"
       }
     },
     "bg": {
@@ -24,7 +20,7 @@
         "type": "color"
       },
       "surface": {
-        "value": "{color.neutrals.black}",
+        "value": "{color.neutrals.white}",
         "type": "color"
       }
     },
