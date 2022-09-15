@@ -43,6 +43,12 @@
         "value": "{border-radius.8}",
         "type": "borderRadius"
       }
+    },
+    "border-width": {
+      "actions": {
+        "value": "{border-width.1}",
+        "type": "borderWidth"
+      }
     }
   }
 }
