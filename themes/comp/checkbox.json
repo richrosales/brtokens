@@ -155,6 +155,24 @@
         "value": "{semantic.spacing.inputs.space-between}",
         "type": "spacing"
       },
+      "default": {
+        "text-color": {
+          "value": "{semantic.color.inputs.default.text-color}",
+          "type": "color"
+        }
+      },
+      "invalid": {
+        "text-color": {
+          "value": "{semantic.color.inputs.error.text-color}",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "text-color": {
+          "value": "{semantic.color.inputs.disabled.text-color}",
+          "type": "color"
+        }
+      },
       "sm": {
         "text-size": {
           "value": "{font-size.2}",
