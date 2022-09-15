@@ -894,6 +894,9 @@
   --checkbox-checkmark-selected-disabled-icon-color: #6b7280;
   --checkbox-border-width: 1px;
   --checkbox-label-space-between: 8px;
+  --checkbox-label-default-text-color: #374151;
+  --checkbox-label-invalid-text-color: #f87171;
+  --checkbox-label-disabled-text-color: #6b7280;
   --checkbox-label-sm-text-size: 12px;
   --checkbox-label-md-text-size: 14px;
   --checkbox-label-lg-text-size: 16px;
