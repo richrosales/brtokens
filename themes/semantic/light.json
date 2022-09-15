@@ -1536,6 +1536,94 @@
             "type": "spacing"
           }
         }
+      },
+      "ui": {
+        "xxs": {
+          "space-between": {
+            "value": "{space.50}",
+            "type": "spacing"
+          },
+          "space-around": {
+            "value": "{space.50}",
+            "type": "spacing"
+          }
+        },
+        "xs": {
+          "space-between": {
+            "value": "{space.100}",
+            "type": "spacing"
+          },
+          "space-around": {
+            "value": "{space.75}",
+            "type": "spacing"
+          }
+        },
+        "s": {
+          "space-between": {
+            "value": "{space.200}",
+            "type": "spacing"
+          },
+          "space-around": {
+            "value": "{space.100}",
+            "type": "spacing"
+          }
+        },
+        "m": {
+          "space-between": {
+            "value": "{space.300}",
+            "type": "spacing"
+          },
+          "space-around": {
+            "value": "{space.150}",
+            "type": "spacing"
+          }
+        },
+        "l": {
+          "space-between": {
+            "value": "{space.400}",
+            "type": "spacing"
+          },
+          "space-around": {
+            "value": "{space.200}",
+            "type": "spacing"
+          }
+        },
+        "xl": {
+          "space-between": {
+            "value": "{space.800}",
+            "type": "spacing"
+          },
+          "space-around": {
+            "value": "{space.300}",
+            "type": "spacing"
+          }
+        },
+        "xxl": {
+          "space-between": {
+            "value": "{space.1200}",
+            "type": "spacing"
+          },
+          "space-around": {
+            "value": "{space.400}",
+            "type": "spacing"
+          }
+        },
+        "xxxl": {
+          "space-between": {
+            "value": "{space.2000}",
+            "type": "spacing"
+          },
+          "space-around": {
+            "value": "{space.800}",
+            "type": "spacing"
+          }
+        },
+        "xxxxl": {
+          "space-around": {
+            "value": "{space.1200}",
+            "type": "spacing"
+          }
+        }
       }
     },
     "font-family": {
