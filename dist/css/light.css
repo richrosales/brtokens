@@ -893,6 +893,7 @@
   --checkbox-checkmark-selected-hover-icon-color: #ffffff;
   --checkbox-checkmark-selected-disabled-icon-color: #6b7280;
   --checkbox-border-width: 1px;
+  --checkbox-label-space-between: 8px;
   --input-sm-height: 32px;
   --input-sm-icon-size: 20px;
   --input-sm-padding-left: 12px;
