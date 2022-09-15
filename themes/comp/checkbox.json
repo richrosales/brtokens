@@ -154,7 +154,33 @@
       "space-between": {
         "value": "{semantic.spacing.inputs.space-between}",
         "type": "spacing"
+      },
+      "sm": {
+        "text-size": {
+          "value": "{font-size.2}",
+          "type": "fontSizes"
+        }
+      },
+      "md": {
+        "text-size": {
+          "value": "{semantic.font-size.actions.xs}",
+          "type": "fontSizes"
+        }
+      },
+      "lg": {
+        "text-size": {
+          "value": "{semantic.font-size.actions.sm}",
+          "type": "fontSizes"
+        }
       }
+    },
+    "font-family": {
+      "value": "{semantic.font-family.inputs}",
+      "type": "fontFamilies"
+    },
+    "font-weight": {
+      "value": "{semantic.font-weight.inputs}",
+      "type": "fontWeights"
     }
   },
   "semantic": {
