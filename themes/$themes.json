@@ -25,7 +25,9 @@
       "comp/hightlight": "disabled",
       "comp/icon": "disabled",
       "comp/tooltip": "disabled",
-      "comp/tab": "disabled"
+      "comp/tab": "disabled",
+      "Brand-ChakraDemo": "disabled",
+      "Brand-ChakraDemo/light": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -55,7 +57,9 @@
       "comp/hightlight": "enabled",
       "comp/icon": "enabled",
       "comp/tooltip": "enabled",
-      "comp/tab": "enabled"
+      "comp/tab": "enabled",
+      "Brand-ChakraDemo": "disabled",
+      "Brand-ChakraDemo/light": "disabled"
     },
     "$figmaStyleReferences": {}
   }
