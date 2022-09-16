@@ -27,6 +27,26 @@
         "value": "{color.neutrals.black}",
         "type": "color"
       }
+    },
+    "border-radius": {
+      "actions": {
+        "value": "{border-radius.4}",
+        "type": "borderRadius"
+      },
+      "inputs": {
+        "value": "{border-radius.4}",
+        "type": "borderRadius"
+      },
+      "ui-card": {
+        "value": "{border-radius.4}",
+        "type": "borderRadius"
+      }
+    },
+    "ui": {
+      "border-radius": {
+        "value": "{border-radius.4}",
+        "type": "borderRadius"
+      }
     }
   }
 }
