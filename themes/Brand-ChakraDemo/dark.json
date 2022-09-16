@@ -12,11 +12,15 @@
       "muted": {
         "value": "#2F2F97",
         "type": "color"
+      },
+      "on-accent": {
+        "value": "{color.neutrals.black}",
+        "type": "color"
       }
     },
     "bg": {
       "canvas": {
-        "value": "#0C1116",
+        "value": "#2F2F2F",
         "type": "color"
       },
       "surface": {

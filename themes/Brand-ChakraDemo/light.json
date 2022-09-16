@@ -12,6 +12,10 @@
       "subtle": {
         "value": "{color.neutrals.white}",
         "type": "color"
+      },
+      "on-accent": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
       }
     },
     "bg": {
