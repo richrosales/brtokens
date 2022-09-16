@@ -71,6 +71,16 @@
         "value": "Semi-Bold",
         "type": "fontWeights"
       }
+    },
+    "spacing": {
+      "ui": {
+        "m": {
+          "space-around": {
+            "value": "{space.300}",
+            "type": "spacing"
+          }
+        }
+      }
     }
   },
   "font-family": {
