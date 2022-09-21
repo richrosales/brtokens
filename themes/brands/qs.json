@@ -2,28 +2,48 @@
   "semantic": {
     "fg": {
       "default": {
-        "value": "#0C1116",
+        "value": "{color.neutralGray.900}",
         "type": "color"
       },
       "muted": {
-        "value": "#EAECEE",
+        "value": "{color.neutralGray.700}",
         "type": "color"
       },
       "subtle": {
-        "value": "{color.neutrals.white}",
+        "value": "{color.neutralGray.500}",
         "type": "color"
       },
       "on-accent": {
         "value": "{color.neutrals.white}",
         "type": "color"
+      },
+      "on-disabled": {
+        "value": "{color.neutralGray.400}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.neutralGray.300}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "semantic.fg.default",
+        "type": "color"
       }
     },
     "bg": {
-      "canvas": {
-        "value": "{color.neutralGray.50}",
+      "surface": {
+        "value": "{color.stone.100}",
         "type": "color"
       },
-      "surface": {
+      "muted": {
+        "value": "{color.stone.200}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "#fbfbfc",
+        "type": "color"
+      },
+      "canvas": {
         "value": "{color.neutrals.white}",
         "type": "color"
       }
