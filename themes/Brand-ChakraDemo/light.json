@@ -12,6 +12,10 @@
       "subtle": {
         "value": "{color.neutrals.white}",
         "type": "color"
+      },
+      "on-accent": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
       }
     },
     "bg": {
@@ -66,6 +70,24 @@
       "semi-bold": {
         "value": "Semi-Bold",
         "type": "fontWeights"
+      }
+    },
+    "spacing": {
+      "ui": {
+        "m": {
+          "space-around": {
+            "value": "{space.300}",
+            "type": "spacing"
+          }
+        }
+      }
+    },
+    "border": {
+      "radius": {
+        "round": {
+          "value": "{border-radius.9}",
+          "type": "borderRadius"
+        }
       }
     }
   },
