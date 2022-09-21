@@ -1628,20 +1628,20 @@
     },
     "font-family": {
       "actions": {
-        "value": "{font-family.sans-serif}",
+        "value": "{font-family.font-1}",
         "type": "fontFamilies"
       },
       "inputs": {
-        "value": "{font-family.sans-serif}",
+        "value": "{font-family.font-1}",
         "type": "fontFamilies"
       },
       "font-family": {
         "inputs": {
-          "value": "{font-family.sans-serif}",
+          "value": "{font-family.font-1}",
           "type": "fontFamilies"
         },
         "actions": {
-          "value": "{font-family.sans-serif}",
+          "value": "{font-family.font-1}",
           "type": "fontFamilies"
         },
         "typography": {
@@ -1650,7 +1650,7 @@
             "type": "fontFamilies"
           },
           "sans-serif": {
-            "value": "{font-family.sans-serif}",
+            "value": "{font-family.font-1}",
             "type": "fontFamilies"
           },
           "mono": {
@@ -1659,25 +1659,25 @@
           }
         },
         "feedback": {
-          "value": "{font-family.sans-serif}",
+          "value": "{font-family.font-1}",
           "type": "fontFamilies"
         },
         "status": {
-          "value": "{font-family.sans-serif}",
+          "value": "{font-family.font-1}",
           "type": "fontFamilies"
         },
         "navigation": {
-          "value": "{font-family.sans-serif}",
+          "value": "{font-family.font-1}",
           "type": "fontFamilies"
         }
       },
       "typography": {
-        "serif": {
-          "value": "{font-family.serif}",
+        "font-2": {
+          "value": "{font-family.font-2}",
           "type": "fontFamilies"
         },
-        "sans-serif": {
-          "value": "{font-family.sans-serif}",
+        "font-1": {
+          "value": "{font-family.font-1}",
           "type": "fontFamilies"
         },
         "mono": {
@@ -1686,11 +1686,11 @@
         }
       },
       "status": {
-        "value": "{font-family.sans-serif}",
+        "value": "{font-family.font-1}",
         "type": "fontFamilies"
       },
       "navigation": {
-        "value": "{font-family.sans-serif}",
+        "value": "{font-family.font-1}",
         "type": "fontFamilies"
       }
     },
@@ -1709,7 +1709,7 @@
           "type": "fontWeights"
         },
         "bold": {
-          "value": "{font-weight.semi-bold}",
+          "value": "{font-weight.bold}",
           "type": "fontWeights"
         }
       },
@@ -1727,7 +1727,7 @@
           "type": "fontWeights"
         },
         "bold": {
-          "value": "{font-weight.semi-bold}",
+          "value": "{font-weight.bold}",
           "type": "fontWeights"
         }
       },

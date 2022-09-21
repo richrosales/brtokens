@@ -17,18 +17,17 @@
       "comp/radio": "disabled",
       "comp/select": "disabled",
       "comp/switch": "disabled",
-      "comp/avatar": "disabled",
       "comp/icon-button": "disabled",
       "comp/tag": "disabled",
       "comp/text": "disabled",
       "comp/heading": "disabled",
-      "comp/hightlight": "disabled",
       "comp/icon": "disabled",
       "comp/tooltip": "disabled",
       "comp/tab": "disabled",
-      "Brand-ChakraDemo": "disabled",
-      "Brand-ChakraDemo/light": "disabled",
-      "Brand-ChakraDemo/dark": "disabled"
+      "brands/qs": "disabled",
+      "brands/sample-brand/light": "disabled",
+      "brands/sample-brand/dark": "disabled",
+      "brands/qs_old": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -50,18 +49,17 @@
       "comp/radio": "enabled",
       "comp/select": "enabled",
       "comp/switch": "enabled",
-      "comp/avatar": "enabled",
       "comp/icon-button": "enabled",
       "comp/tag": "enabled",
       "comp/text": "enabled",
       "comp/heading": "enabled",
-      "comp/hightlight": "enabled",
       "comp/icon": "enabled",
       "comp/tooltip": "enabled",
       "comp/tab": "enabled",
-      "Brand-ChakraDemo": "disabled",
-      "Brand-ChakraDemo/light": "disabled",
-      "Brand-ChakraDemo/dark": "disabled"
+      "brands/qs": "disabled",
+      "brands/sample-brand/light": "disabled",
+      "brands/sample-brand/dark": "disabled",
+      "brands/qs_old": "disabled"
     },
     "$figmaStyleReferences": {}
   }

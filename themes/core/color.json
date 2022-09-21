@@ -126,7 +126,7 @@
         "type": "color"
       }
     },
-    "NeutralGray": {
+    "neutralGray": {
       "50": {
         "value": "#fafafa",
         "type": "color"

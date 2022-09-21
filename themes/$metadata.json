@@ -1,10 +1,8 @@
 {
   "tokenSetOrder": [
-    "comp/avatar",
     "comp/button",
     "comp/checkbox",
     "comp/heading",
-    "comp/hightlight",
     "comp/icon",
     "comp/icon-button",
     "comp/input",
@@ -23,8 +21,9 @@
     "core/typography",
     "semantic/light",
     "semantic/dark",
-    "Brand-ChakraDemo",
-    "Brand-ChakraDemo/light",
-    "Brand-ChakraDemo/dark"
+    "brands/sample-brand/light",
+    "brands/sample-brand/dark",
+    "brands/qs",
+    "brands/qs_old"
   ]
 }

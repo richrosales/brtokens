@@ -61,7 +61,7 @@
       }
     },
     "font-family": {
-      "value": "{semantic.font-family.typography.sans-serif}",
+      "value": "{semantic.font-family.typography.font-1}",
       "type": "fontFamilies"
     },
     "light": {
