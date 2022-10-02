@@ -2,6 +2,10 @@
   "semantic": {
     "fg": {
       "default": {
+        "value": "{color.NeutralGray.900}",
+        "type": "color"
+      },
+      "emphasized": {
         "value": "{color.neutrals.black}",
         "type": "color"
       },
@@ -53,7 +57,7 @@
         "value": "{color.sky.500}",
         "type": "color"
       },
-      "emphasised": {
+      "emphasized": {
         "value": "{color.sky.600}",
         "type": "color"
       },
@@ -75,7 +79,7 @@
         "value": "{color.sky.500}",
         "type": "color"
       },
-      "emphasised": {
+      "emphasized": {
         "value": "{color.sky.600}",
         "type": "color"
       },
@@ -97,7 +101,7 @@
         "value": "{color.gray.600}",
         "type": "color"
       },
-      "emphasised": {
+      "emphasized": {
         "value": "{color.gray.500}",
         "type": "color"
       },
@@ -119,7 +123,7 @@
         "value": "{color.amber.400}",
         "type": "color"
       },
-      "emphasised": {
+      "emphasized": {
         "value": "{color.amber.500}",
         "type": "color"
       },
@@ -141,7 +145,7 @@
         "value": "{color.red.400}",
         "type": "color"
       },
-      "emphasised": {
+      "emphasized": {
         "value": "{color.red.500}",
         "type": "color"
       },
@@ -163,7 +167,7 @@
         "value": "{color.teal.400}",
         "type": "color"
       },
-      "emphasised": {
+      "emphasized": {
         "value": "{color.blue.500}",
         "type": "color"
       },
@@ -185,7 +189,7 @@
         "value": "{color.emerald.400}",
         "type": "color"
       },
-      "emphasised": {
+      "emphasized": {
         "value": "{color.emerald.500}",
         "type": "color"
       },
@@ -207,7 +211,7 @@
         "value": "{color.purple.400}",
         "type": "color"
       },
-      "emphasised": {
+      "emphasized": {
         "value": "{color.purple.500}",
         "type": "color"
       },
@@ -257,7 +261,7 @@
         "value": "{color.gray.400}",
         "type": "color"
       },
-      "emphasised": {
+      "emphasized": {
         "value": "{color.gray.500}",
         "type": "color"
       },
@@ -361,7 +365,7 @@
           },
           "active": {
             "border": {
-              "value": "{semantic.error.emphasised}",
+              "value": "{semantic.error.emphasized}",
               "type": "color"
             },
             "text": {
@@ -369,7 +373,7 @@
               "type": "color"
             },
             "background": {
-              "value": "{semantic.error.emphasised}",
+              "value": "{semantic.error.emphasized}",
               "type": "color"
             }
           },
@@ -433,7 +437,7 @@
           },
           "active": {
             "border-color": {
-              "value": "{semantic.cta.emphasised}",
+              "value": "{semantic.cta.emphasized}",
               "type": "color"
             },
             "text-color": {
@@ -441,7 +445,7 @@
               "type": "color"
             },
             "background-color": {
-              "value": "{semantic.cta.emphasised}",
+              "value": "{semantic.cta.emphasized}",
               "type": "color"
             }
           },
@@ -499,7 +503,7 @@
           },
           "active": {
             "border": {
-              "value": "{semantic.primary.emphasised}",
+              "value": "{semantic.primary.emphasized}",
               "type": "color"
             },
             "text": {
@@ -507,11 +511,11 @@
               "type": "color"
             },
             "background": {
-              "value": "{semantic.primary.emphasised}",
+              "value": "{semantic.primary.emphasized}",
               "type": "color"
             },
             "quiet-background": {
-              "value": "{semantic.primary.emphasised}",
+              "value": "{semantic.primary.emphasized}",
               "type": "color"
             }
           },
@@ -611,7 +615,7 @@
           },
           "active": {
             "border": {
-              "value": "{semantic.secondary.emphasised}",
+              "value": "{semantic.secondary.emphasized}",
               "type": "color"
             },
             "quiet-border": {
@@ -627,11 +631,11 @@
               "type": "color"
             },
             "background": {
-              "value": "{semantic.secondary.emphasised}",
+              "value": "{semantic.secondary.emphasized}",
               "type": "color"
             },
             "quiet-background": {
-              "value": "{semantic.secondary.emphasised}",
+              "value": "{semantic.secondary.emphasized}",
               "type": "color"
             }
           },
@@ -1047,7 +1051,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{semantic.cta.emphasised}",
+          "value": "{semantic.cta.emphasized}",
           "type": "color"
         },
         "text": {

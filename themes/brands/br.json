@@ -53,7 +53,7 @@
         "value": "{color.neutrals.black}",
         "type": "color"
       },
-      "emphasised": {
+      "emphasized": {
         "value": "{color.NeutralGray.900}",
         "type": "color"
       },
@@ -75,7 +75,7 @@
         "value": "{color.neutrals.black}",
         "type": "color"
       },
-      "emphasised": {
+      "emphasized": {
         "value": "{color.NeutralGray.900}",
         "type": "color"
       },
