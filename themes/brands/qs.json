@@ -2,15 +2,15 @@
   "semantic": {
     "fg": {
       "default": {
-        "value": "{color.neutralGray.900}",
+        "value": "{color.NeutralGray.900}",
         "type": "color"
       },
       "muted": {
-        "value": "{color.neutralGray.700}",
+        "value": "{color.NeutralGray.700}",
         "type": "color"
       },
       "subtle": {
-        "value": "{color.neutralGray.500}",
+        "value": "{color.NeutralGray.500}",
         "type": "color"
       },
       "on-accent": {
@@ -18,11 +18,11 @@
         "type": "color"
       },
       "on-disabled": {
-        "value": "{color.neutralGray.400}",
+        "value": "{color.NeutralGray.400}",
         "type": "color"
       },
       "disabled": {
-        "value": "{color.neutralGray.300}",
+        "value": "{color.NeutralGray.300}",
         "type": "color"
       },
       "accent": {
@@ -108,6 +108,12 @@
           "value": "{border-radius.9}",
           "type": "borderRadius"
         }
+      }
+    },
+    "cta": {
+      "primary": {
+        "value": "{color.NeutralGray.900}",
+        "type": "color"
       }
     }
   },
