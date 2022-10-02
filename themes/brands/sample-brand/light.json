@@ -72,16 +72,6 @@
         "type": "fontWeights"
       }
     },
-    "spacing": {
-      "ui": {
-        "m": {
-          "space-around": {
-            "value": "{space.300}",
-            "type": "spacing"
-          }
-        }
-      }
-    },
     "border": {
       "radius": {
         "round": {
