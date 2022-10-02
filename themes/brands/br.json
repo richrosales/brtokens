@@ -1,0 +1,124 @@
+{
+  "semantic": {
+    "fg": {
+      "default": {
+        "value": "{color.neutralGray.900}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.neutralGray.700}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{color.neutralGray.500}",
+        "type": "color"
+      },
+      "on-accent": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      },
+      "on-disabled": {
+        "value": "{color.neutralGray.400}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.neutralGray.300}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "semantic.fg.default",
+        "type": "color"
+      }
+    },
+    "bg": {
+      "surface": {
+        "value": "{color.stone.100}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.stone.200}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "#fbfbfc",
+        "type": "color"
+      },
+      "canvas": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      }
+    },
+    "ui": {
+      "border-radius": {
+        "value": "12px",
+        "type": "borderRadius"
+      }
+    },
+    "border-radius": {
+      "ui-card": {
+        "value": "12px",
+        "type": "borderRadius"
+      },
+      "actions": {
+        "value": "{border-radius.8}",
+        "type": "borderRadius"
+      },
+      "inputs": {
+        "value": "{border-radius.8}",
+        "type": "borderRadius"
+      }
+    },
+    "border-width": {
+      "actions": {
+        "value": "{border-width.1}",
+        "type": "borderWidth"
+      },
+      "inputs": {
+        "value": "{border-width.1}",
+        "type": "borderWidth"
+      }
+    },
+    "font-weight": {
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "medium": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "semi-bold": {
+        "value": "Semi-Bold",
+        "type": "fontWeights"
+      }
+    },
+    "spacing": {
+      "ui": {
+        "m": {
+          "space-around": {
+            "value": "{space.300}",
+            "type": "spacing"
+          }
+        }
+      }
+    },
+    "border": {
+      "radius": {
+        "round": {
+          "value": "{border-radius.9}",
+          "type": "borderRadius"
+        }
+      }
+    }
+  },
+  "font-family": {
+    "font-1": {
+      "value": "Hurme Geometric Sans 3",
+      "type": "fontFamilies"
+    },
+    "font-2": {
+      "value": "Hurme Geometric Sans 3",
+      "type": "fontFamilies"
+    }
+  }
+}

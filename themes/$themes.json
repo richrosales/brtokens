@@ -27,7 +27,8 @@
       "brands/qs": "disabled",
       "brands/sample-brand/light": "disabled",
       "brands/sample-brand/dark": "disabled",
-      "brands/qs_old": "disabled"
+      "brands/qs_old": "disabled",
+      "brands/br": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -59,7 +60,8 @@
       "brands/qs": "disabled",
       "brands/sample-brand/light": "disabled",
       "brands/sample-brand/dark": "disabled",
-      "brands/qs_old": "disabled"
+      "brands/qs_old": "disabled",
+      "brands/br": "disabled"
     },
     "$figmaStyleReferences": {}
   }
