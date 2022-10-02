@@ -1166,31 +1166,31 @@
         },
         "body": {
           "xs": {
-            "value": "{font-size.2}",
+            "value": "{font-size.1}",
             "type": "fontSizes"
           },
           "s": {
-            "value": "{font-size.3}",
+            "value": "{font-size.2}",
             "type": "fontSizes"
           },
           "m": {
-            "value": "{font-size.4}",
+            "value": "{font-size.3}",
             "type": "fontSizes"
           },
           "l": {
-            "value": "{font-size.5}",
+            "value": "{font-size.4}",
             "type": "fontSizes"
           },
           "xl": {
-            "value": "{font-size.6}",
+            "value": "{font-size.5}",
             "type": "fontSizes"
           },
           "xxl": {
-            "value": "{font-size.7}",
+            "value": "{font-size.6}",
             "type": "fontSizes"
           },
           "xxxl": {
-            "value": "{font-size.8}",
+            "value": "{font-size.7}",
             "type": "fontSizes"
           }
         },

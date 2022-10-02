@@ -48,6 +48,10 @@
         "type": "fontSizes"
       }
     },
+    "font-family": {
+      "value": "{semantic.font-family.typography.font-1}",
+      "type": "fontFamilies"
+    },
     "5xl": {
       "text-size": {
         "value": "{font-size.20}",
@@ -59,10 +63,6 @@
         "value": "60px",
         "type": "fontSizes"
       }
-    },
-    "font-family": {
-      "value": "{semantic.font-family.typography.font-1}",
-      "type": "fontFamilies"
     },
     "light": {
       "font-weight": {
