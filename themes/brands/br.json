@@ -68,7 +68,7 @@
         "type": "borderRadius"
       },
       "actions": {
-        "value": "{border-radius.8}",
+        "value": "{border-radius.0}",
         "type": "borderRadius"
       },
       "inputs": {
@@ -106,6 +106,12 @@
           "value": "{border-radius.9}",
           "type": "borderRadius"
         }
+      }
+    },
+    "letterspacing": {
+      "actions": {
+        "value": "{widest}",
+        "type": "letterSpacing"
       }
     }
   },

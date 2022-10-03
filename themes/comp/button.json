@@ -19,7 +19,7 @@
     "primary": {
       "default": {
         "background-color": {
-          "value": "{semantic.color.actions.primary.default.background}",
+          "value": "{semantic.color.actions.primary.active.background}",
           "type": "color"
         },
         "text-color": {
@@ -353,6 +353,14 @@
     "line-height": {
       "value": "100%",
       "type": "lineHeights"
+    },
+    "textcase": {
+      "value": "{semantic.textcase.actions}",
+      "type": "textCase"
+    },
+    "letterspacing": {
+      "value": "{semantic.letterspacing.actions}",
+      "type": "letterSpacing"
     }
   },
   "semantic": {

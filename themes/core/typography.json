@@ -180,5 +180,29 @@
       "value": "120%",
       "type": "lineHeights"
     }
+  },
+  "tighter": {
+    "value": "-5%",
+    "type": "letterSpacing"
+  },
+  "tight": {
+    "value": "-3%",
+    "type": "letterSpacing"
+  },
+  "normal": {
+    "value": "0",
+    "type": "letterSpacing"
+  },
+  "wide": {
+    "value": "3%",
+    "type": "letterSpacing"
+  },
+  "wider": {
+    "value": "5%",
+    "type": "letterSpacing"
+  },
+  "widest": {
+    "value": "10%",
+    "type": "letterSpacing"
   }
 }

@@ -2037,6 +2037,38 @@
           "type": "lineHeights"
         }
       }
+    },
+    "textcase": {
+      "actions": {
+        "value": "uppercase",
+        "type": "textCase"
+      },
+      "titles": {
+        "value": "capitalize",
+        "type": "textCase"
+      },
+      "menu": {
+        "value": "uppercase",
+        "type": "textCase"
+      }
+    },
+    "letterspacing": {
+      "default": {
+        "value": "{normal}",
+        "type": "letterSpacing"
+      },
+      "actions": {
+        "value": "{normal}",
+        "type": "letterSpacing"
+      },
+      "titles": {
+        "value": "{normal}",
+        "type": "letterSpacing"
+      },
+      "menu": {
+        "value": "{normal}",
+        "type": "letterSpacing"
+      }
     }
   }
 }
