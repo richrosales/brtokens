@@ -1083,19 +1083,19 @@
     "font-size": {
       "actions": {
         "xs": {
-          "value": "{font-size.3}",
+          "value": "{font-size.1}",
           "type": "fontSizes"
         },
         "sm": {
-          "value": "{font-size.4}",
+          "value": "{font-size.2}",
           "type": "fontSizes"
         },
         "md": {
-          "value": "{font-size.5}",
+          "value": "{font-size.3}",
           "type": "fontSizes"
         },
         "lg": {
-          "value": "{font-size.6}",
+          "value": "{font-size.4}",
           "type": "fontSizes"
         }
       },
@@ -1819,55 +1819,55 @@
     "sizing": {
       "actions": {
         "xs": {
-          "value": "{semantic.component.small}",
+          "value": "{semantic.component.extra-small}",
           "type": "sizing"
         },
         "sm": {
-          "value": "{semantic.component.medium}",
+          "value": "{semantic.component.small}",
           "type": "sizing"
         },
         "md": {
-          "value": "{semantic.component.large}",
+          "value": "{semantic.component.medium}",
           "type": "sizing"
         },
         "lg": {
-          "value": "{semantic.component.extra-large}",
+          "value": "{semantic.component.large}",
           "type": "sizing"
         },
         "icon-size": {
           "xs": {
-            "value": "{size.200}",
+            "value": "{size.150}",
             "type": "sizing"
           },
           "sm": {
-            "value": "{size.300}",
+            "value": "{size.200}",
             "type": "sizing"
           },
           "md": {
-            "value": "{size.400}",
+            "value": "{size.300}",
             "type": "sizing"
           },
           "lg": {
-            "value": "{size.500}",
+            "value": "{size.400}",
             "type": "sizing"
           }
         }
       },
       "inputs": {
         "xs": {
-          "value": "{semantic.component.small}",
+          "value": "{semantic.component.extra-small}",
           "type": "sizing"
         },
         "sm": {
-          "value": "{semantic.component.medium}",
+          "value": "{semantic.component.small}",
           "type": "sizing"
         },
         "md": {
-          "value": "{semantic.component.large}",
+          "value": "{semantic.component.medium}",
           "type": "sizing"
         },
         "lg": {
-          "value": "{semantic.component.extra-large}",
+          "value": "{semantic.component.large}",
           "type": "sizing"
         },
         "icon-size": {

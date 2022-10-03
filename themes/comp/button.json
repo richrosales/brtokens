@@ -262,7 +262,7 @@
     },
     "sm": {
       "text-size": {
-        "value": "{semantic.font-size.actions.sm}",
+        "value": "{semantic.font-size.actions.xs}",
         "type": "fontSizes"
       },
       "padding-left": {
