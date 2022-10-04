@@ -44,7 +44,7 @@
         "type": "color"
       },
       "subtle": {
-        "value": "{color.NeutralGray.100}",
+        "value": "{color.NeutralGray.200}",
         "type": "color"
       },
       "canvas": {
