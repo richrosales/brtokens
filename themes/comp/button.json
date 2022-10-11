@@ -19,7 +19,7 @@
     "primary": {
       "default": {
         "background-color": {
-          "value": "{semantic.color.actions.primary.active.background}",
+          "value": "{color.fuchsia.700}",
           "type": "color"
         },
         "text-color": {
