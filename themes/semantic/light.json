@@ -1660,7 +1660,7 @@
         },
         "typography": {
           "serif": {
-            "value": "{font-family.serif}",
+            "value": "{font-family.font-1}",
             "type": "fontFamilies"
           },
           "sans-serif": {

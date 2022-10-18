@@ -1,10 +1,10 @@
 {
   "font-family": {
-    "serif": {
+    "font-1": {
       "value": "IBM Plex Serif",
       "type": "fontFamilies"
     },
-    "sans-serif": {
+    "font-2": {
       "value": "IBM Plex Sans",
       "type": "fontFamilies"
     },
