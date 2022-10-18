@@ -1649,42 +1649,6 @@
         "value": "{font-family.font-1}",
         "type": "fontFamilies"
       },
-      "font-family": {
-        "inputs": {
-          "value": "{font-family.font-1}",
-          "type": "fontFamilies"
-        },
-        "actions": {
-          "value": "{font-family.font-1}",
-          "type": "fontFamilies"
-        },
-        "typography": {
-          "serif": {
-            "value": "{font-family.font-1}",
-            "type": "fontFamilies"
-          },
-          "sans-serif": {
-            "value": "{font-family.font-1}",
-            "type": "fontFamilies"
-          },
-          "mono": {
-            "value": "{font-family.mono}",
-            "type": "fontFamilies"
-          }
-        },
-        "feedback": {
-          "value": "{font-family.font-1}",
-          "type": "fontFamilies"
-        },
-        "status": {
-          "value": "{font-family.font-1}",
-          "type": "fontFamilies"
-        },
-        "navigation": {
-          "value": "{font-family.font-1}",
-          "type": "fontFamilies"
-        }
-      },
       "typography": {
         "font-2": {
           "value": "{font-family.font-2}",
