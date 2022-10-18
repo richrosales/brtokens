@@ -59,7 +59,7 @@
       "brands/qs": "disabled",
       "brands/sample-brand/light": "disabled",
       "brands/sample-brand/dark": "disabled",
-      "brands/br": "disabled"
+      "brands/br": "enabled"
     },
     "$figmaStyleReferences": {}
   }
