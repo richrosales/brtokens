@@ -251,6 +251,14 @@ function getStyleDictionaryConfig(themeName, themeTokenSets) {
           },
         ],
       },
+      "web": {
+        "transforms": ["attribute/cti", "name/cti/kebab", "sizes/px"],
+        "buildPath": `dist/js/`,
+        "files": [{
+          "destination": `${convertToSafeThemeName(themeName)}.json`,
+          "format": "createArray"
+        }]
+      },
     },
   };
 }
